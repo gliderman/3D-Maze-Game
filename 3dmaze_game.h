@@ -12,8 +12,8 @@
  *
  * Enjoy!
  *
- *  Created on: April 1, 2019
- *      Author: Nate Hoffman
+ * Created on: April 1, 2019
+ * @author Nate Hoffman
  *
  *  @{
  */
