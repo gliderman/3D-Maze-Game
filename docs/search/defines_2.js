@@ -1,5 +1,6 @@
 var searchData=
 [
-  ['pos_5fx_5fwall',['POS_X_WALL',['../3dmaze__game_8c.html#a5fd19fb422349d6c288b41186d1cdf4f',1,'3dmaze_game.c']]],
-  ['pos_5fy_5fwall',['POS_Y_WALL',['../3dmaze__game_8c.html#aeb27588b8ef2f25f89f9a78d062e376a',1,'3dmaze_game.c']]]
+  ['neg_5fx_5fwall',['NEG_X_WALL',['../3dmaze__game_8c.html#a3f9904812198fb1101b04f826055182d',1,'3dmaze_game.c']]],
+  ['neg_5fy_5fwall',['NEG_Y_WALL',['../3dmaze__game_8c.html#ab49e5d464d4755200a598198f00bf2aa',1,'3dmaze_game.c']]],
+  ['num_5ftriangles',['NUM_TRIANGLES',['../3dmaze__game_8c.html#a808d465dda7e8045c2b698f2f655fb4c',1,'3dmaze_game.c']]]
 ];

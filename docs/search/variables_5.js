@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['world',['world',['../structmaze__game__t.html#a3ab822052eed9a3bdecfaaf66b93231d',1,'maze_game_t']]]
+  ['location',['location',['../structcamera.html#ac0ccebbce603811ff3018e421421ca9f',1,'camera']]]
 ];
